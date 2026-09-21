@@ -26,6 +26,6 @@
 | `[Em breve]` (link) | Iremos criar um sistema de monitoramneto de irrigação em C  | ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 
 ## Contato 
-- [Linkedin]
+- [Linkedin] (https://www.linkedin.com/in/gabriel-victor-porfirio-de-almeida-357714255/)
 - `gabriel.almeida010@cs.cruzeirodosul.edu.br`
 
